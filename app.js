@@ -30,3 +30,4 @@ var personasAltas= personas.filter(esAlta)
 
 console.log(personas)
 console.log(personasAltas)
+console.log("este es unos de mis commits xd")
